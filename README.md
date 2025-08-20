@@ -13,7 +13,7 @@
         <!-- Header -->
         <header class="session-header">
             <div class="breadcrumb">
-                <span>Salesforce+</span>
+                <span>SF+</span>
                 <i class="fas fa-chevron-right"></i>
                 <span>Dreamforce 2025</span>
                 <i class="fas fa-chevron-right"></i>
